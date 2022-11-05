@@ -101,3 +101,5 @@ Date:   Sat Nov 5 16:51:07 2022 +0200
 
  tiedosto.txt | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
+ 
+ editoin nyt esim tiedostoa gitlog.txt hieman suoraan GitHubissa
