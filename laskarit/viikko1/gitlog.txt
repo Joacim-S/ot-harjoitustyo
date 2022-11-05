@@ -1,0 +1,103 @@
+commit 9f2d85c16a02ae91aeb94dcb8fc56e35e347f1df
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:21:59 2022 +0200
+
+    ölasdö
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 80ec9ef57a46fcc5d9cf7a0f83c95a7714cefc88
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:19:32 2022 +0200
+
+    luotu tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 961f92f29d69da22ee10d589df8e40d30d80cefb
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:15:16 2022 +0200
+
+    jotain random muutoksia taas
+
+ eka.txt    | 16 +---------------
+ kolmas.txt |  3 +++
+ 2 files changed, 4 insertions(+), 15 deletions(-)
+
+commit ce810b00e400fd3bb6ffdd617d9d11610a294ebd
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:12:50 2022 +0200
+
+    uudelleennimetty tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aaf24fec577a0595888fe80157af786f41185e2a
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:11:09 2022 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8197016f57c987f4d0906193e40f274d34f4edfc
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:08:25 2022 +0200
+
+    poistettu ja lisätty tekstiä
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit b4ed0da9921518a5e3a9813ecb5c05c7369ed40d
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 17:06:57 2022 +0200
+
+    Lisätty paljon tekstiä tiedosto.txt
+
+ tiedosto.txt | 199 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 199 insertions(+)
+
+commit 4c7ea08a5a07e45ffab49b402402d57a20105f9d
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 16:56:04 2022 +0200
+
+    Luotu stuff ja neljäs.txt
+
+ "stuff/nelj\303\244s.txt" | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1c053dcbe58a5f36451a3c9923f2b2b988f7aad9
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 16:54:50 2022 +0200
+
+    luotu kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 86d07260cca629bbb5f56d4f4c2bcb6f6fd46aa6
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 16:52:47 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 000001d9f43e660ee38e2d02359f49580a80a776
+Author: Joacim-S <45919018+Joacim-S@users.noreply.github.com>
+Date:   Sat Nov 5 16:51:07 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
