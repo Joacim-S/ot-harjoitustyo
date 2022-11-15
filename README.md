@@ -4,5 +4,5 @@
 [gitlog.txt](https://github.com/Joacim-S/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 [komentorivi.txt](https://github.com/Joacim-S/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivil.txt)
 
-##Dokumentaatio
+## Dokumentaatio
 [vaatimusmaarittely.md](https://github.com/Joacim-S/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
